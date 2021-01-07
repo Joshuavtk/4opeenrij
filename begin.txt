@@ -1,0 +1,9 @@
+Leerlingen: Damon Boelens, Duncan Huizer en Joshua van 't Kruis
+
+Bij het begin van dit project maken we gebruik van de eerder geschreven klasse
+Board. Deze klasse bevat alle functies van een 4 op een rij bord. We hebben een klasse
+Player aangemaakt die voor elke speler een instantie aanmaakt van de klasse en
+deze functie krijgt alle functies om een 4 op een rij spel te spelen.
+Daarnaast gaan we aan deze klasse de mogelijkheid hangen om berekeningen te maken 
+die beslissen welke volgende zet de beste is en daarmee 4 op een rij gaat spelen
+als tegenstander van de speler.
