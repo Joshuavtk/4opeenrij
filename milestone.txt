@@ -1,0 +1,5 @@
+Leerlingen: Damon Boelens, Duncan Huizer en Joshua van 't Kruis
+
+Voor onze milestone hebben wij de klasse Player uitgebreid met een algorithme die de scores berekend
+voor mogelijke zetten. Deze functie berekent ook wat de tegenstander zijn beste zetten zijn en neemt deze mee in de score van de zet.
+Ook hebben we een functie geschreven die kijkt naar wat de speelmethode is van de AI en daarop een zet uitkiest vanuit de mogelijke zetten.
